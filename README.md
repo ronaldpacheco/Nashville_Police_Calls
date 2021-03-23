@@ -2,6 +2,12 @@
 
 Data Source: https://data.nashville.gov/Police/Metro-Nashville-Police-Department-Calls-for-Servic/kwnd-qrrm
 
+In this repo you will find:
+
+- An analysis of over 8M calls from the Nashville Police Department.
+- Neural Network model to predict the outcome of calls.
+
+
 # Conclusions
 - Most of these calls happen in the Nashville area, as expected, since other cities/counties are cover by different police departments
 - The number of calls has been somewhat steady in the last ~7 years. However, we can see how its slope has decreased a little towards the last few years
